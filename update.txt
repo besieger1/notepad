@@ -1,0 +1,13 @@
+--Angryjoshi@Creativemen--
+
+
+This is ver.1.2.1_stable
+
+
+....NEW VERSION....
+  -Saving is now available
+  -Opening is now available
+
+My format is a normal .txt file, that means you can open other files with this format (of course only that one in the Aplication Folder)
+
+ 
